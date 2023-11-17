@@ -1,0 +1,37 @@
+body{
+    background-color: #88c1d0;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-device-width: 1920px) {
+    body{
+        background-color: #ffca4b;
+    }
+    
+}
+
+
+
+
+
+
+@media screen and (max-device-width: 1680px) {
+    body{
+        background-color: #275fa0;
+    }
+    
+}
+
+
+@media screen and (max-device-width: 1280px) {
+    body{
+        background-color: #ffffff;
+    }
+    
+}
